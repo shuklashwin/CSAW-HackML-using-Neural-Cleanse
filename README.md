@@ -1,4 +1,4 @@
-# Defense System aganist backdoor attacks on DNN
+# Defense System against backdoor attacks on DNN
 backdoor detector for BadNets trained on the YouTube Face dataset
 
 ## How should you run the project
