@@ -39,7 +39,7 @@ The given model is backdoored DNN and it only reveals trigger(collection of pixe
 * Identifying the trigger used
 * Lastly we gonna make Backdoor DNN right
 
-### How we're gonna detect backdoors
+### How we're going to detect backdoors
 
 * First we find the minimal trigger to misclassify all labels into this target label
 * We're gonna do that to all labels and then we use outllier detection to find the real trigger, so the real trigger is very small compared to others.
